@@ -1,4 +1,4 @@
-<img align="left" width="400" src="https://photo-cdn2.icons8.com/T1vIjRUcYOYI9jHu2W3wEKigeQuHuPS3UTw2sEURib4/rs:fit:288:288/czM6Ly9pY29uczgu/bW9vc2UtcHJvZC5h/c3NldHMvYXNzZXRz/L3VwbG9hZHMvNjA3/L2UyODQxNmVhLTc5/ODYtNGQyMS1hMDQ4/LTdiZGMxOWJlYTEx/Zi5qcGc.jpg">
+<img align="left" width="400" src="https://github.githubassets.com/images/modules/profile/profile-first-repo.svg">
 <h1 align="center">@HonNgimm_</h1>
 <p align="center">
   <h3 align="center">A passionate developer from Vietnam 🇻🇳 </h3>
