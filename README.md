@@ -1,5 +1,4 @@
-<img align="left" width="400" src="https://github.githubassets.com/images/modules/profile/profile-first-repo.svg">
-<h1 align="center">@HonNgimm_</h1>
+<h1 align="center">@HonNgimm_<img src="https://img.icons8.com/color/25/null/tiktok-verified-account.png"/>
 <p align="center">
   <h3 align="center">A passionate developer from Vietnam 🇻🇳 </h3>
 </p>
@@ -32,6 +31,6 @@
     <img src="https://img.icons8.com/color/48/null/telegram-app--v1.png"/>
   </a> 
   <a href="mailto:Nghiem0987@gmail.com" alt="Email">
-    <img src="https://img.icons8.com/fluent/48/000000/mailing.png"/>
+    <img src="https://img.icons8.com/color/48/null/gmail--v1.png"/>
   </a>
 </p>
