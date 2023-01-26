@@ -34,3 +34,13 @@
     <img src="https://img.icons8.com/color/48/null/gmail--v1.png"/>
   </a>
 </p>
+
+<h1 align="center">
+<p align="center">
+  <h1 align="center"> Software Download </h1>
+</p>  
+Pass: @HonNgimm_
+
+- 👉 Mathtype 7.4.4 [Download](https://drive.google.com/file/d/1ZhKOC_SUs7omIMAoe0WhIfEyNyLCVRcT/view?usp=sharing)
+
+
