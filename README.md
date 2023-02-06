@@ -43,5 +43,6 @@ Pass: @HonNgimm_
 
 - 👉 Mathtype 7.4.4 [Download](https://drive.google.com/file/d/1ZhKOC_SUs7omIMAoe0WhIfEyNyLCVRcT/view?usp=sharing)
 - 👉 Photoshop CS6 [Download](https://drive.google.com/file/d/1-RSMU7wA9tcQtmaq7gPzS6tbGeRDtTPv/view?usp=sharing)
+- 👉 Office 2019 Professional Plus [Download](https://drive.google.com/file/d/1PQwJDsrE_029Ci8Lm6zcerj9MLzLnZRH/view?usp=sharing)
 
 
